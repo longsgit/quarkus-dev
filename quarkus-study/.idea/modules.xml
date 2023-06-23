@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/parent-pom/parent-pom.iml" filepath="$PROJECT_DIR$/parent-pom/parent-pom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quarkus-kafka-movie-consumer/quarkus-kafka-movie-consumer.iml" filepath="$PROJECT_DIR$/quarkus-kafka-movie-consumer/quarkus-kafka-movie-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quarkus-kafka-movie-producer/quarkus-kafka-movie-producer.iml" filepath="$PROJECT_DIR$/quarkus-kafka-movie-producer/quarkus-kafka-movie-producer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quarkus-study.iml" filepath="$PROJECT_DIR$/quarkus-study.iml" />
+    </modules>
+  </component>
+</project>
